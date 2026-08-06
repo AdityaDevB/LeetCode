@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AdityaDevB/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AdityaDevB/LeetCode/tree/master/0035-search-insert-position) |
 | [0485-max-consecutive-ones](https://github.com/AdityaDevB/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/AdityaDevB/LeetCode/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/AdityaDevB/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/AdityaDevB/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AdityaDevB/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AdityaDevB/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AdityaDevB/LeetCode/tree/master/0018-4sum) |
+| [0645-set-mismatch](https://github.com/AdityaDevB/LeetCode/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
 | ------- |
@@ -70,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AdityaDevB/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Hash Table
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/AdityaDevB/LeetCode/tree/master/0645-set-mismatch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/AdityaDevB/LeetCode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
